@@ -58,4 +58,25 @@ h1{
 .page-1 {
     background-color: aqua;
     color: azure;
+    font-size: xx-large;
+}
+.page-2 {
+    background-color: blue;
+    color: chocolate;
+    font-size: xx-large;
+}
+.page-3 {
+    background-color: rgb(220, 20, 53);
+    color: rgb(108, 34, 178);
+    font-size: xx-large;
+}
+.page-4{
+    background-color: rgb(30, 210, 105);
+    color: black;
+    font-size: xx-large;
+}
+.index {
+    background-color: rgb(204, 123, 85);
+    color: lightpink;
+    font-size: xx-large;
 }
