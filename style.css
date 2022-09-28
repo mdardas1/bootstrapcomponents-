@@ -1,0 +1,61 @@
+h1{
+    color: red;
+}
+
+.DE{
+    background-color: aqua;
+
+}
+
+.FD{
+    background-color: aquamarine;
+}
+
+.AD{
+    background-color: bisque;
+}
+
+.A300{
+    background-color: blueviolet;
+}
+
+.B200{
+    background-color: brown;
+}
+
+.I5{
+    background-color: blue;
+}
+
+.AB{
+    font-size: 48px;
+}
+
+
+.ZBT{
+    font-size: 48px;
+}
+
+.MS{
+    font-size: 48px;
+}
+
+.AAP{
+    font-size: 48px;
+}
+
+.Ii5{
+    font-size: 48px;
+}
+
+.IF{
+    font-size: 48px;
+}
+.carousel-item {
+    width: 100%;
+    height: 75vh;
+}
+.page-1 {
+    background-color: aqua;
+    color: azure;
+}
